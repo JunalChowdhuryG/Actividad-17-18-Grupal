@@ -26,10 +26,10 @@ Se configuro un tablero Kanban en GitHub Projects para gestionar el flujo de tra
 2. Se personalizaron las columnas predeterminadas:
    - **Ready** se renombro a **Icebox**.
    - **In review** se renombro a **Review/QA**.
-   - Se mantuvieron **Backlog**, **In Progress**, y **Done**.
+   - Se mantuvieron **Backlog**, **In Progress**, y **Done**
 3. Se crearon y organizaron columnas adicionales:
-   - **Product Backlog**: Posicionada antes de **In Progress**.
-   - **Sprint Backlogs**: Organizada segun el ejemplo proporcionado ([kapumota/projects/5](https://github.com/users/kapumota/projects/5)).
+   - **Product Backlog**: Posicionada antes de **In Progress**
+   - **Sprint Backlogs**: Organizada segun el ejemplo proporcionado 
 
 **Captura de pantalla**: Tablero Kanban configurado  
 ![Creacion del tablero Kanban](img/parte-1-tabla-kanban.png)
