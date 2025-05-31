@@ -32,7 +32,7 @@ Se configuro un tablero Kanban en GitHub Projects para gestionar el flujo de tra
    - **Sprint Backlogs**: Organizada segun el ejemplo proporcionado ([kapumota/projects/5](https://github.com/users/kapumota/projects/5)).
 
 **Captura de pantalla**: Tablero Kanban configurado  
-![Creacion del tablero Kanban](img/p1-creacion-tablero-kanban.jpeg)
+![Creacion del tablero Kanban](img/parte-1-tabla-kanban.png)
 
 ---
 
@@ -94,8 +94,12 @@ Se crearon siete historias de usuario y se priorizo el product backlog.
    - **Must persist counter across restarts** y **Counters can be reset** se movieron al final de **Product Backlog**.
    - Las historias restantes permanecieron en **New Issues**.
 
-**Captura de pantalla**: Historias de usuario creadas  
+**Captura de pantalla**: 
+* Historias de usuario creadas  
 ![Siete issues creados](img/p3-7-issues-creados.png)
+* Tablero Kanban con las 7 historias de ususario 
+![Siete issues creados](img/parte-3-tablero-kanban-7-historias.png)
+
 
 ---
 
@@ -147,7 +151,13 @@ Este Epic agrupa todas las funcionalidades relacionadas con la gestion de contad
    - [4] Counters can be reset
 3. Se creo una nueva historia: **Generate counter usage reports** ([Issue #8](https://github.com/JunalChowdhuryG/Actividad-17-18-Grupal/issues/8)).
 
-**Captura de pantalla**: Epic creado  
+
+
+
+**Captura de pantalla**:
+* Issue [8] Generate counter usage reports [Issue #8](https://github.com/JunalChowdhuryG/Actividad-17-18-Grupal/issues/8)
+![Issue 8](img/ejercicio-1-issue-8.png)
+* Epic creado  
 ![Epic creada](img/E1-Epic-creada.png)
 
 ---
@@ -170,7 +180,6 @@ Se crearon y asignaron etiquetas de prioridad a las historias
    - **Generate counter usage reports**: `medium priority`
    - **Must allow multiple counters**: `low priority`
    - **Need the ability to remove a counter**: `low priority`
-3. Se crearon las etiquetas `in review`, `blocked`, y `ready for testing`, pero no se usaron en esta actividad.
 
 **Captura de pantalla**: Asignacion de etiquetas  
 ![Asignar etiquetas](img/E2-asignar-etiquetas.png)
@@ -195,6 +204,9 @@ Se registro el esfuerzo estimado de las historias en horas
 | #7 | Need ability to update a counter to a new value | 5 |
 | #8 | Generate counter usage reports | 6 |
 | #10 | Export counter data to CSV | 3 |
+
+**Captura de pantalla**: Seguimiento de Tiempo y Esfuerzo
+![Seguimiento de Tiempo y Esfuerzo](img/ejercicio-4-seguimiento.png)
 
 ---
 
