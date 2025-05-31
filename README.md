@@ -4,6 +4,10 @@
 
 Este documento describe la realizacion de la **Actividad 17**, enfocada en la configuracion de un tablero Kanban en GitHub Projects, la creacion de plantillas de issues, la generacion de historias de usuario, y la priorizacion y refinamiento del product backlog. La actividad fue completada por el **Grupo 2** en el repositorio [Actividad-17-18-Grupal](https://github.com/JunalChowdhuryG/Actividad-17-18-Grupal) a traves de una reunion virtual.
 
+El tablero Kanban esta en es mismo repositorio:
+* [Tablero Kanban Grupo 2](https://github.com/users/JunalChowdhuryG/projects/4)
+
+
 ## Integrantes del Grupo
 
 | Integrante | Codigo | GitHub |
